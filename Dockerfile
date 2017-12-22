@@ -33,12 +33,12 @@ ARG LDAP_ORGANIZATION="Zentek MX"
 ARG LDAP_BINDDN="cn=admin,dc=zentek,dc=com,dc=mx"
 ARG LDAP_SECRET="verysecretpass"
 
-# Initialize LDAP with data
-RUN /bin/bash /bootstrap/slapd-init.sh
-
 VOLUME ["/etc/ldap/slapd.d", "/etc/ldap/ssl", "/var/lib/ldap", "/run/slapd"]
 
 EXPOSE 389 636
 
 CMD ["/bin/bash", "/run.sh"]
 ENTRYPOINT []
+
+# End of file
+# vim: set ts=2 sw=2 noet:
