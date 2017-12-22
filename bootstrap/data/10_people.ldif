@@ -1,0 +1,1301 @@
+dn: uid=donatello,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Donato di Niccolo di Betto Bardi
+sn: di Niccolo di Betto Bardi
+givenName: Donato
+mail: donatello@zentek.com.mx
+uid: donatello
+userPassword: secret
+
+
+dn: uid=leonardo,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Leonardo di ser Piero da Vinci
+sn: di ser Piero da Vinci
+givenName: Leonardo
+mail: leonardo@zentek.com.mx
+uid: leonardo
+userPassword: secret
+
+
+dn: uid=michelangelo,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Michelangelo di Lodovico Buonarroti Simoni
+sn: di Lodovico Buonarroti Simoni
+givenName: Michelangelo
+mail: michelangelo@zentek.com.mx
+uid: michelangelo
+userPassword: secret
+
+
+dn: uid=raphael,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Raffaello Sanzio da Urbino
+sn: Sanzio da Urbino
+givenName: Raffaello
+mail: raphael@zentek.com.mx
+uid: raphael
+userPassword: secret
+
+
+dn: uid=giotto,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Giotto di Bondone
+sn: di Bondone
+givenName: Giotto
+mail: giotto@zentek.com.mx
+uid: giotto
+userPassword: secret
+
+
+dn: uid=piero,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Piero della Francesca
+sn: della Francesca
+givenName: Piero
+mail: piero@zentek.com.mx
+uid: piero
+userPassword: secret
+
+
+dn: uid=masaccio,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Tommaso di Ser Giovanni di Simone
+sn: di Ser Giovanni di Simone
+givenName: Tommaso
+mail: masaccio@zentek.com.mx
+uid: masaccio
+userPassword: secret
+
+
+dn: uid=boticelli,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alessandro di Mariano di Vanni Filipepi
+sn: di Mariano di Vanni Filipepi
+givenName: Alessandro
+mail: boticelli@zentek.com.mx
+uid: boticelli
+userPassword: secret
+
+
+dn: uid=perugino,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Pietro Perugino
+sn: Perugino
+givenName: Pietro
+mail: perugino@zentek.com.mx
+uid: perugino
+userPassword: secret
+
+
+dn: uid=ghirlandaio,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Domenico Ghirlandaio
+sn: Ghirlandaio
+givenName: Domenico
+mail: ghirlandaio@zentek.com.mx
+uid: ghirlandaio
+userPassword: secret
+
+
+dn: uid=beethoven,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Ludwig van Beethoven
+sn: Beethoven
+givenName: Ludwig van
+mail: beethoven@zentek.com.mx
+uid: beethoven
+userPassword: secret
+
+
+dn: uid=mozart,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Wolfgang Amadeus Mozart
+sn: Mozart
+givenName: Wolfgang Amadeus
+mail: mozart@zentek.com.mx
+uid: mozart
+userPassword: secret
+
+
+dn: uid=bach,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Johann Sebastian Bach
+sn: Bach
+givenName: Johann Sebastian
+mail: bach@zentek.com.mx
+uid: bach
+userPassword: secret
+
+
+dn: uid=chopin,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Frédéric François Chopin
+sn: Chopin
+givenName: Frédéric François
+mail: chopin@zentek.com.mx
+uid: chopin
+userPassword: secret
+
+
+dn: uid=brahms,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Johannes Brahms
+sn: Brahms
+givenName: Johannes
+mail: brahms@zentek.com.mx
+uid: brahms
+userPassword: secret
+
+
+dn: uid=debussy,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Achille-Claude Debussy
+sn: Debussy
+givenName: Achille-Claude
+mail: debussy@zentek.com.mx
+uid: debussy
+userPassword: secret
+
+
+dn: uid=liszt,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Franz Joseph Liszt
+sn: Liszt
+givenName: Franz Joseph
+mail: liszt@zentek.com.mx
+uid: liszt
+userPassword: secret
+
+
+dn: uid=vivaldi,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Antonio Lucio Vivaldi
+sn: Vivaldi
+givenName: Antonio Lucio
+mail: vivaldi@zentek.com.mx
+uid: vivaldi
+userPassword: secret
+
+
+dn: uid=tchaikovsky,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Pyotr Ilyich Tchaikovsky
+sn: Tchaikovsky
+givenName: Pyotr Ilyich
+mail: tchaikovsky@zentek.com.mx
+uid: tchaikovsky
+userPassword: secret
+
+
+dn: uid=rachmaninoff,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Sergei Vasilievich Rachmaninoff
+sn: Rachmaninoff
+givenName: Sergei Vasilievich 
+mail: rachmaninoff@zentek.com.mx
+uid: rachmaninoff
+userPassword: secret
+
+
+dn: uid=einstein,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Albert Einstein
+sn: Einstein
+givenName: Albert
+mail: einstein@zentek.com.mx
+uid: einstein
+userPassword: secret
+
+
+dn: uid=edison,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Thomas Alva Edison
+sn: Edison
+givenName: Thomas Alva
+mail: edison@zentek.com.mx
+uid: edison
+userPassword: secret
+
+
+dn: uid=tesla,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Nikola Tesla
+sn: Tesla
+givenName: Nikola
+mail: tesla@zentek.com.mx
+uid: tesla
+userPassword: secret
+
+
+dn: uid=mariecurie,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Marie Skłodowska Curie
+sn: Curie
+givenName: Marie Skłodowska
+mail: mariecurie@zentek.com.mx
+uid: mariecurie
+userPassword: secret
+
+
+dn: uid=newton,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Isaac Newton
+sn: Newton
+givenName: Isaac
+mail: newton@zentek.com.mx
+uid: newton
+userPassword: secret
+
+
+dn: uid=louispasteur,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Louis Pasteur
+sn: Pasteur
+givenName: Louis
+mail: louispasteur@zentek.com.mx
+uid: louispasteur
+userPassword: secret
+
+
+dn: uid=rutherford,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Ernest Rutherford
+sn: Rutherford
+givenName: Ernest
+mail: rutherford@zentek.com.mx
+uid: rutherford
+userPassword: secret
+
+
+dn: uid=descartes,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: René Descartes
+sn: Descartes
+givenName: René
+mail: descartes@zentek.com.mx
+uid: descartes
+userPassword: secret
+
+
+dn: uid=galileo,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Galileo Galilei
+sn: Galilei
+givenName: Galileo
+mail: galileo@zentek.com.mx
+uid: galileo
+userPassword: secret
+
+
+dn: uid=mendel,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Gregor Johann Mendel
+sn: Mendel
+givenName: Gregor Johann
+mail: mendel@zentek.com.mx
+uid: mendel
+userPassword: secret
+
+
+dn: uid=ohm,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Georg Simon Ohm
+sn: Ohm
+givenName: Georg Simon
+mail: ohm@zentek.com.mx
+uid: ohm
+userPassword: secret
+
+
+dn: uid=heisenberg,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Werner Karl Heisenberg
+sn: Heisenberg
+givenName: Werner Karl
+mail: heisenberg@zentek.com.mx
+uid: heisenberg
+userPassword: secret
+
+
+dn: uid=volta,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alessandro Giuseppe Antonio Anastasio Volta
+sn: Volta
+givenName: Alessandro Giuseppe Antonio Anastasio
+mail: volta@zentek.com.mx
+uid: volta
+userPassword: secret
+
+
+dn: uid=morse,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Samuel Finley Breese Morse
+sn: Morse
+givenName: Samuel Finley Breese
+mail: morse@zentek.com.mx
+uid: morse
+userPassword: secret
+
+
+dn: uid=coulomb,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Charles-Augustin de Coulomb
+sn: Coulomb
+givenName: Charles-Augustin de
+mail: coulomb@zentek.com.mx
+uid: coulomb
+userPassword: secret
+
+
+dn: uid=grahambell,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alexander Graham Bell
+sn: Bell
+givenName: Alexander Graham
+mail: grahambell@zentek.com.mx
+uid: grahambell
+userPassword: secret
+
+
+dn: uid=hertz,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Heinrich Rudolf Hertz
+sn: Hertz
+givenName: Heinrich Rudolf
+mail: hertz@zentek.com.mx
+uid: hertz
+userPassword: secret
+
+
+dn: uid=dalton,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: John Dalton
+sn: Dalton
+givenName: John
+mail: dalton@zentek.com.mx
+uid: dalton
+userPassword: secret
+
+
+dn: uid=franklin,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Benjamin Franklin
+sn: Franklin
+givenName: Benjamin
+mail: franklin@zentek.com.mx
+uid: franklin
+userPassword: secret
+
+
+dn: uid=kelvin,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: William Thomson Kelvin
+sn: Kelvin
+givenName: William Thomson
+mail: kelvin@zentek.com.mx
+uid: kelvin
+userPassword: secret
+
+
+dn: uid=schrodinger,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Erwin Rudolf Josef Alexander Schrödinger
+sn: Schrödinger
+givenName: Erwin Rudolf Josef Alexander
+mail: schrodinger@zentek.com.mx
+uid: schrodinger
+userPassword: secret
+
+
+dn: uid=marx,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Karl Marx
+sn: Marx
+givenName: Karl
+mail: marx@zentek.com.mx
+uid: marx
+userPassword: secret
+
+
+dn: uid=joule,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: James Prescott Joule
+sn: Joule
+givenName: James Prescott
+mail: joule@zentek.com.mx
+uid: joule
+userPassword: secret
+
+
+dn: uid=maxwell,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: James Clerk Maxwell
+sn: Maxwell
+givenName: James Clerk
+mail: maxwell@zentek.com.mx
+uid: maxwell
+userPassword: secret
+
+
+dn: uid=turing,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alan Mathison Turing
+sn: Turing
+givenName: Alan Mathison
+mail: turing@zentek.com.mx
+uid: turing
+userPassword: secret
+
+
+dn: uid=darwin,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Charles Robert Darwin
+sn: Darwin
+givenName: Charles Robert
+mail: darwin@zentek.com.mx
+uid: darwin
+userPassword: secret
+
+
+dn: uid=wallace,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alfred Russel Wallace
+sn: Wallace
+givenName: Alfred Russel
+mail: wallace@zentek.com.mx
+uid: wallace
+userPassword: secret
+
+
+dn: uid=freud,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Sigmund Freud
+sn: Freud
+givenName: Sigmund
+mail: freud@zentek.com.mx
+uid: freud
+userPassword: secret
+
+
+dn: uid=skinner,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Burrhus Frederic Skinner
+sn: Skinner
+givenName: Burrhus Frederic
+mail: skinner@zentek.com.mx
+uid: skinner
+userPassword: secret
+
+
+dn: uid=piaget,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Jean Piaget
+sn: Piaget
+givenName: Jean
+mail: piaget@zentek.com.mx
+uid: piaget
+userPassword: secret
+
+
+dn: uid=homero,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Homero
+sn: NoLN
+givenName: Homero
+mail: homero@zentek.com.mx
+uid: homero
+userPassword: secret
+
+
+dn: uid=socrates,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Socrates
+sn: NoLN
+givenName: Socrates
+mail: socrates@zentek.com.mx
+uid: socrates
+userPassword: secret
+
+
+dn: uid=aristophanes,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Aristophanes
+sn: NoLN
+givenName: Aristophanes
+mail: aristophanes@zentek.com.mx
+uid: aristophanes
+userPassword: secret
+
+
+dn: uid=theocritus,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Theocritus
+sn: NoLN
+givenName: Theocritus
+mail: theocritus@zentek.com.mx
+uid: theocritus
+userPassword: secret
+
+
+dn: uid=alexander,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Alexander
+sn: NoLN
+givenName: Alexander
+mail: alexander@zentek.com.mx
+uid: alexander
+userPassword: secret
+
+
+dn: uid=plato,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Plato
+sn: NoLN
+givenName: Plato
+mail: plato@zentek.com.mx
+uid: plato
+userPassword: secret
+
+
+dn: uid=aristoteles,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Aristoteles
+sn: NoLN
+givenName: Aristoteles
+mail: aristoteles@zentek.com.mx
+uid: aristoteles
+userPassword: secret
+
+
+dn: uid=pericles,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Pericles
+sn: NoLN
+givenName: Pericles
+mail: pericles@zentek.com.mx
+uid: pericles
+userPassword: secret
+
+
+dn: uid=leonidas,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Leonidas
+sn: NoLN
+givenName: Leonidas
+mail: leonidas@zentek.com.mx
+uid: leonidas
+userPassword: secret
+
+
+dn: uid=hipocrates,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Hipocrates
+sn: NoLN
+givenName: Hipocrates
+mail: hipocrates@zentek.com.mx
+uid: hipocrates
+userPassword: secret
+
+
+dn: uid=elvispresley,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Elvis Aaron Presley
+sn: Presley
+givenName: Elvis Aaron
+mail: elvispresley@zentek.com.mx
+uid: elvispresley
+userPassword: secret
+
+
+dn: uid=ericclapton,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Eric Patrick Clapton
+sn: Clapton
+givenName: Eric Patrick
+mail: ericclapton@zentek.com.mx
+uid: ericclapton
+userPassword: secret
+
+
+dn: uid=jimihendrix,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: James Marshall Hendrix
+sn: Hendrix
+givenName: James Marshall Hendrix
+mail: jimihendrix@zentek.com.mx
+uid: jimihendrix
+userPassword: secret
+
+
+dn: uid=johnlenon,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: John Winston Ono Lennon
+sn: Lennon
+givenName: John Winston Ono
+mail: johnlenon@zentek.com.mx
+uid: johnlenon
+userPassword: secret
+
+
+dn: uid=paulmccartney,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: James Paul McCartney
+sn: McCartney
+givenName: James Paul
+mail: paulmccartney@zentek.com.mx
+uid: paulmccartney
+userPassword: secret
+
+
+dn: uid=georgeharrison,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: George Harrison
+sn: Harrison
+givenName: George
+mail: georgeharrison@zentek.com.mx
+uid: georgeharrison
+userPassword: secret
+
+
+dn: uid=ringostarr,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Ringo Starr
+sn: Starr
+givenName: Ringo
+mail: ringostarr@zentek.com.mx
+uid: ringostarr
+userPassword: secret
+
+
+dn: uid=kurtcobain,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Kurt Donald Cobain
+sn: Cobain
+givenName: Kurt Donald
+mail: kurtcobain@zentek.com.mx
+uid: kurtcobain
+userPassword: secret
+
+
+dn: uid=mickjagger,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Michael Philip Jagger
+sn: Jagger
+givenName: Michael Philip
+mail: mickjagger@zentek.com.mx
+uid: mickjagger
+userPassword: secret
+
+
+dn: uid=keithrichards,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Keith Richards
+sn: Richards
+givenName: Keith
+mail: keithrichards@zentek.com.mx
+uid: keithrichards
+userPassword: secret
+
+
+dn: uid=charliewatts,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Charlie Watts
+sn: Watts
+givenName: Charlie
+mail: charliewatts@zentek.com.mx
+uid: charliewatts
+userPassword: secret
+
+
+dn: uid=ronniewood,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Ronnie Wood
+sn: Wood
+givenName: Ronnie
+mail: ronniewood@zentek.com.mx
+uid: ronniewood
+userPassword: secret
+
+
+dn: uid=michaeljackson,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Michael Joseph Jackson
+sn: Jackson
+givenName: Michael Joseph
+mail: michaeljackson@zentek.com.mx
+uid: michaeljackson
+userPassword: secret
+
+
+dn: uid=mariahcarey,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Mariah Carey
+sn: Carey
+givenName: Mariah
+mail: mariahcarey@zentek.com.mx
+uid: mariahcarey
+userPassword: secret
+
+
+dn: uid=davidbowie,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: David Robert Jones
+sn: Jones
+givenName: David Robert
+mail: davidbowie@zentek.com.mx
+uid: davidbowie
+userPassword: secret
+
+
+dn: uid=johnnydepp,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: John Christopher Depp
+sn: Depp
+givenName: John Christopher
+mail: johnnydepp@zentek.com.mx
+uid: johnnydepp
+userPassword: secret
+
+
+dn: uid=leonardodicaprio,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Leonardo Wilhelm DiCaprio
+sn: DiCaprio
+givenName: Leonardo Wilhelm
+mail: leonardodicaprio@zentek.com.mx
+uid: leonardodicaprio
+userPassword: secret
+
+
+dn: uid=tomhanks,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Thomas Jeffrey Hanks
+sn: Hanks
+givenName: Thomas Jeffrey
+mail: tomhanks@zentek.com.mx
+uid: tomhanks
+userPassword: secret
+
+
+dn: uid=georgeclooney,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: George Timothy Clooney
+sn: Clooney
+givenName: George Timothy
+mail: georgeclooney@zentek.com.mx
+uid: georgeclooney
+userPassword: secret
+
+
+dn: uid=tomcruise,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Thomas Cruise Mapother
+sn: Cruise Mapother
+givenName: Thomas
+mail: tomcruise@zentek.com.mx
+uid: tomcruise
+userPassword: secret
+
+
+dn: uid=harrisonford,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Harrison Ford
+sn: Ford
+givenName: Harrison
+mail: harrisonford@zentek.com.mx
+uid: harrisonford
+userPassword: secret
+
+
+dn: uid=willsmith,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Willard Carroll Smith
+sn: Smith
+givenName: Willard Carroll
+mail: willsmith@zentek.com.mx
+uid: willsmith
+userPassword: secret
+
+
+dn: uid=bradpitt,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: William Bradley Pitt
+sn: Pitt
+givenName: William Bradley
+mail: bradpitt@zentek.com.mx
+uid: bradpitt
+userPassword: secret
+
+
+dn: uid=mattdamon,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Matthew Paige Damon
+sn: Damon
+givenName: Matthew Paige
+mail: mattdamon@zentek.com.mx
+uid: mattdamon
+userPassword: secret
+
+
+dn: uid=morganfreeman,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Morgan Freeman
+sn: Freeman
+givenName: Morgan
+mail: morganfreeman@zentek.com.mx
+uid: morganfreeman
+userPassword: secret
+
+
+dn: uid=johntravolta,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: John Joseph Travolta
+sn: Travolta
+givenName: John Joseph
+mail: johntravolta@zentek.com.mx
+uid: johntravolta
+userPassword: secret
+
+
+dn: uid=nicolascage,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Nicolas Kim Coppola
+sn: Coppola
+givenName: Nicolas Kim
+mail: nicolascage@zentek.com.mx
+uid: nicolascage
+userPassword: secret
+
+
+dn: uid=christianbale,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Christian Charles Philip Bale
+sn: Bale
+givenName: Christian Charles Philip
+mail: christianbale@zentek.com.mx
+uid: christianbale
+userPassword: secret
+
+
+dn: uid=samueljackson,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Samuel Leroy Jackson
+sn: Jackson
+givenName: Samuel Leroy
+mail: samueljackson@zentek.com.mx
+uid: samueljackson
+userPassword: secret
+
+
+dn: uid=jimcarrey,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: James Eugene Carrey
+sn: Carrey
+givenName: James Eugene
+mail: jimcarrey@zentek.com.mx
+uid: jimcarrey
+userPassword: secret
+
+
+dn: uid=columbus,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Christopher Columbus
+sn: Columbus
+givenName: Christopher
+mail: columbus@zentek.com.mx
+uid: columbus
+userPassword: secret
+
+
+dn: uid=vascodagama,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Vasco da Gama
+sn: Gama
+givenName: Vasco da
+mail: vascodagama@zentek.com.mx
+uid: vascodagama
+userPassword: secret
+
+
+dn: uid=marcopolo,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Marco Polo
+sn: Polo
+givenName: Marco
+mail: marcopolo@zentek.com.mx
+uid: marcopolo
+userPassword: secret
+
+
+dn: uid=jamescook,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Captain James Cook
+sn: Cook
+givenName: Captain James
+mail: jamescook@zentek.com.mx
+uid: jamescook
+userPassword: secret
+
+
+dn: uid=livingstone,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: David Livingstone
+sn: Livingstone
+givenName: David
+mail: livingstone@zentek.com.mx
+uid: livingstone
+userPassword: secret
+
+
+dn: uid=johncabot,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: John Cabot
+sn: Cabot
+givenName: John
+mail: johncabot@zentek.com.mx
+uid: johncabot
+userPassword: secret
+
+
+dn: uid=amundsen,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Roald Engelbregt Gravning Amundsen
+sn: Amundsen
+givenName: Roald Engelbregt Gravning
+mail: amundsen@zentek.com.mx
+uid: amundsen
+userPassword: secret
+
+
+dn: uid=raleigh,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Walter Raleigh
+sn: Raleigh
+givenName: Walter
+mail: raleigh@zentek.com.mx
+uid: raleigh
+userPassword: secret
+
+
+dn: uid=eriksson,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Leif Eriksson
+sn: Eriksson
+givenName: Leif
+mail: eriksson@zentek.com.mx
+uid: eriksson
+userPassword: secret
+
+
+dn: uid=francisdrake,ou=accounts,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: person
+objectClass: organizationalperson
+objectClass: inetorgperson
+cn: Francis Drake
+sn: Drake
+givenName: Francis
+mail: francisdrake@zentek.com.mx
+uid: francisdrake
+userPassword: secret
+
+
+#Generated with import.awk

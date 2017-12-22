@@ -1,0 +1,21 @@
+dn: ou=accounts,dc=zentek,dc=com,dc=mx
+objectclass: organizationalunit
+ou: accounts
+description: Rama generica de cuentas
+
+dn: ou=groups,dc=zentek,dc=com,dc=mx
+objectclass: organizationalunit
+ou: groups
+description: Rama generica de grupos
+
+dn: ou=locations,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: organizationalUnit
+ou: locations
+description: Rama generica de localidades
+
+dn: ou=devices,dc=zentek,dc=com,dc=mx
+objectClass: top
+objectClass: organizationalUnit
+ou: devices
+description: Rama generica equiamiento
