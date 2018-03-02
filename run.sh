@@ -106,7 +106,7 @@ if [ ! -e /bootstrap/docker_bootstrapped ]; then
   configure_logging
   [ ${LDAP_DOMAIN} != "zentek.com.mx" ] && replace_domain
   load_initial_data
-  echo "Ready to use..."
+  echo "Ready to use the openldap..."
 
   touch /bootstrap/docker_bootstrapped
 	tail -f /dev/null
